@@ -1,0 +1,5 @@
+C:\Users\Fuminori\documents\visual studio 2010\Projects\WindowsProgram\WindowsProgram\bin\Debug\WindowsProgram.exe
+C:\Users\Fuminori\documents\visual studio 2010\Projects\WindowsProgram\WindowsProgram\bin\Debug\WindowsProgram.pdb
+C:\Users\Fuminori\documents\visual studio 2010\Projects\WindowsProgram\WindowsProgram\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fuminori\documents\visual studio 2010\Projects\WindowsProgram\WindowsProgram\obj\x86\Debug\WindowsProgram.exe
+C:\Users\Fuminori\documents\visual studio 2010\Projects\WindowsProgram\WindowsProgram\obj\x86\Debug\WindowsProgram.pdb
